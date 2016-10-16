@@ -45,6 +45,7 @@ void loop() {
       }    
   }else{
     BT.println("0");
+    delay(500);
   }
   sum_input = 0; 
   digitalWrite(Eye_left, LOW);  

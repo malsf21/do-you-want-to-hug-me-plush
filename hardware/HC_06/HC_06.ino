@@ -12,5 +12,5 @@ void setup()
 
 void loop() 
 {
-   BT.println("Hello from Arduino");
+   BT.println("Hello from Arduinoz");
 }
